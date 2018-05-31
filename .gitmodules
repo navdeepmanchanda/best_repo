@@ -1,0 +1,3 @@
+[submodule "submod_repo"]
+	path = submod_repo
+	url = https://github.com/navdeepmanchanda/submod_repo.git
